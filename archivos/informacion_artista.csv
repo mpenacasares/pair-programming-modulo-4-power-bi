@@ -1,0 +1,820 @@
+artista_id,pais_de_origen,area_de_origen,fecha_nacimiento,fecha_inicio_actividad,fecha_fin_actividad
+747,"United States","New York",NULL,NULL,Actualidad
+744,"United States",Wasilla,NULL,2004,Actualidad
+159,Sweden,Stockholm,NULL,NULL,Actualidad
+426,Spain,"Alcalá de Henares",1985-07-30,NULL,Actualidad
+631,"United States","San Francisco",NULL,2015,Actualidad
+845,Mexico,Hermosillo,1965-02-16,NULL,Actualidad
+28,Germany,Berlin,NULL,2002,Actualidad
+334,Spain,NULL,NULL,NULL,Actualidad
+734,"United Kingdom",NULL,NULL,2003,Actualidad
+653,"United States","North Carolina",1984-11-09,NULL,Actualidad
+119,Spain,NULL,1986-01-01,NULL,Actualidad
+188,Colombia,Medellín,1994-01-14,NULL,Actualidad
+207,"United States","Río Piedras",1994-01-15,NULL,Actualidad
+550,Spain,"Montcada i Reixac",NULL,2003,Actualidad
+91,"United Kingdom",Putney,1977-09-01,NULL,Actualidad
+513,Spain,Paris,1940-01-14,NULL,2021-11-03
+759,"United Kingdom",Doncaster,1997-08-05,NULL,Actualidad
+639,"United States",Columbus,NULL,2013,Actualidad
+786,NULL,NULL,NULL,NULL,Actualidad
+797,"United States","Los Angeles",NULL,1998,Actualidad
+346,Spain,Barcelona,1995-09-12,NULL,Actualidad
+9,"United States","New York",NULL,2001,Actualidad
+325,Spain,"Palma del Río",1995-01-02,NULL,Actualidad
+808,"United States",NULL,NULL,NULL,Actualidad
+656,"United States","Oklahoma City",1986-11-06,NULL,Actualidad
+453,Spain,"Comunidad Valenciana",NULL,NULL,Actualidad
+594,"United States",Philadelphia,NULL,2013,Actualidad
+847,"United States",Burgin,NULL,NULL,Actualidad
+37,Germany,NULL,NULL,NULL,Actualidad
+282,"United States","Río Piedras",1983-12-13,NULL,Actualidad
+396,Spain,"Santa Cruz de Tenerife",1994-03-14,NULL,Actualidad
+206,"United States",Corozal,2000-10-04,NULL,Actualidad
+335,Spain,Helsinki,1980-03-03,NULL,Actualidad
+620,Ireland,Bray,1990-03-17,NULL,Actualidad
+492,Spain,Madrid,1982-03-15,NULL,Actualidad
+429,Spain,NULL,NULL,NULL,Actualidad
+30,"United States",Sacramento,1977-02-07,NULL,Actualidad
+230,Argentina,Morón,2006-10-25,NULL,Actualidad
+702,"United States","Los Angeles",NULL,1981,Actualidad
+56,Spain,Sevilla,NULL,2000,Actualidad
+161,"United States","San Juan",1993-01-10,NULL,Actualidad
+322,Spain,Madrid,1980-12-29,NULL,Actualidad
+409,Spain,Zaragoza,NULL,1984,1996-01-01
+168,Argentina,Argentina,1998-01-01,NULL,Actualidad
+226,NULL,NULL,NULL,NULL,Actualidad
+437,NULL,NULL,NULL,NULL,Actualidad
+679,"United Kingdom",NULL,NULL,NULL,Actualidad
+681,"United States",Newark,NULL,2001,Actualidad
+512,Spain,London,1993-11-15,NULL,Actualidad
+568,"United States","Battle Creek",1986-04-07,NULL,Actualidad
+424,Spain,Madrid,1963-11-04,NULL,Actualidad
+314,"United States",NULL,1987-05-19,NULL,Actualidad
+425,Spain,Sevilla,1984-07-25,NULL,Actualidad
+71,NULL,NULL,NULL,NULL,Actualidad
+557,"United States",Glennville,1983-06-30,NULL,Actualidad
+576,"United States",Brooklyn,NULL,2015,Actualidad
+634,"United States","Los Angeles",NULL,2009,Actualidad
+733,"United States","Warner Robins",1992-12-01,NULL,Actualidad
+738,"United States","Woodland Hills",NULL,2012,Actualidad
+234,"United States",Boston,1980-02-25,NULL,Actualidad
+330,Spain,Estepona,1997-02-25,NULL,Actualidad
+224,"United States",Carolina,1992-07-14,NULL,Actualidad
+378,Spain,Barcelona,NULL,2007,Actualidad
+597,"United States","San Diego",1984-04-05,NULL,Actualidad
+21,"United Kingdom",London,NULL,NULL,Actualidad
+536,NULL,NULL,NULL,NULL,Actualidad
+172,NULL,NULL,NULL,NULL,Actualidad
+602,"United States",NULL,NULL,2000,Actualidad
+515,Spain,Barcelona,NULL,1997,Actualidad
+633,"United States",Asheville,1986-09-19,NULL,Actualidad
+114,"United Kingdom",London,NULL,1994,Actualidad
+5,"United Kingdom",London,1988-10-28,NULL,Actualidad
+271,"United States",Cataño,1981-03-24,NULL,2023-06-01
+405,Spain,Burgos,NULL,2011,Actualidad
+516,NULL,NULL,NULL,NULL,Actualidad
+17,"United States","Los Angeles",1985-01-27,NULL,Actualidad
+261,"United States",NULL,NULL,NULL,Actualidad
+762,"United States","Las Vegas",NULL,2001,Actualidad
+67,Argentina,"Buenos Aires",NULL,2001,Actualidad
+509,Spain,Madrid,1991-03-19,NULL,Actualidad
+101,Sweden,NULL,NULL,NULL,Actualidad
+128,France,Grenoble,1973-07-15,NULL,Actualidad
+879,Japan,Tokyo,NULL,2005,Actualidad
+42,"United States",Harlem,1965-09-11,NULL,Actualidad
+143,France,Versailles,NULL,1995,Actualidad
+12,France,Paris,NULL,2003,Actualidad
+398,Spain,Madrid,NULL,2015,Actualidad
+609,"United Kingdom",Oxford,NULL,2010,Actualidad
+673,"United States",Lafayette,1978-01-12,NULL,Actualidad
+683,"United States",Nashville,1978-07-21,NULL,Actualidad
+6,"United Kingdom",Leeds,1976-03-30,NULL,Actualidad
+573,"United States",Jefferson,1985-01-20,NULL,Actualidad
+312,NULL,NULL,NULL,NULL,Actualidad
+758,Australia,Sydney,NULL,2018,Actualidad
+869,"United States",Newark,2003-09-26,NULL,Actualidad
+547,Spain,Madrid,1986-06-29,NULL,Actualidad
+522,Netherlands,Soest,1978-01-07,NULL,Actualidad
+284,NULL,NULL,NULL,NULL,Actualidad
+855,"United States","New York",1985-05-18,NULL,Actualidad
+370,Spain,Getxo,NULL,NULL,Actualidad
+14,Norway,Tromsø,NULL,1998,Actualidad
+528,Spain,NULL,NULL,NULL,Actualidad
+503,Spain,Madrid,NULL,NULL,Actualidad
+352,Spain,Madrid,1980-04-28,NULL,Actualidad
+548,NULL,NULL,NULL,NULL,Actualidad
+447,Spain,Vitoria-Gasteiz,NULL,2004,Actualidad
+451,Spain,NULL,NULL,1993,Actualidad
+192,"United States",NULL,1977-01-14,NULL,Actualidad
+406,Spain,NULL,1993-01-01,NULL,Actualidad
+419,Spain,Caracas,1965-02-23,NULL,Actualidad
+31,"United Kingdom",London,NULL,1995,Actualidad
+116,Poland,Warsaw,NULL,2015,Actualidad
+549,NULL,Gijón,NULL,2021,Actualidad
+693,Colombia,Bogotá,NULL,2007,Actualidad
+859,"United Kingdom",London,NULL,2017,2024-08-10
+876,"United States",Seattle,NULL,1994,Actualidad
+296,Venezuela,Caracas,1991-09-08,NULL,Actualidad
+894,"United States",Gainesville,NULL,1976,2017-10-02
+49,"United Kingdom",Leicester,1985-11-10,NULL,Actualidad
+427,Spain,"Collado Villalba",1985-12-22,NULL,Actualidad
+646,"United Kingdom",Essex,NULL,1999,Actualidad
+141,Sweden,Nacka,1975-04-07,NULL,Actualidad
+430,Spain,NULL,NULL,NULL,Actualidad
+3,Denmark,Copenhagen,NULL,2003,Actualidad
+197,Colombia,Antioquia,2000-01-27,NULL,Actualidad
+691,"United States",Milwaukee,1980-04-24,NULL,Actualidad
+347,Spain,Madrid,NULL,NULL,Actualidad
+219,Argentina,"Monte Grande",2001-08-03,NULL,Actualidad
+502,Spain,NULL,NULL,NULL,Actualidad
+371,Spain,Cartagena,NULL,NULL,Actualidad
+640,"United States",Bonanza,1979-01-21,NULL,Actualidad
+725,"United States",Ferriday,1935-09-29,NULL,2022-10-28
+301,"United States","Puerto Rico",1994-06-26,NULL,Actualidad
+644,"United States","Des Moines",NULL,1995,Actualidad
+756,"United States","Los Angeles",NULL,2006,Actualidad
+863,"United States","San Francisco",NULL,1965,1973-01-01
+123,"United Kingdom",Sevenoaks,NULL,1989,Actualidad
+785,"United States",Atlanta,NULL,2005,Actualidad
+748,NULL,NULL,1980-08-18,NULL,Actualidad
+841,NULL,Nashville,NULL,2005,Actualidad
+193,"United States",Philadelphia,1990-10-07,NULL,Actualidad
+448,Spain,NULL,NULL,NULL,Actualidad
+787,"United States",Greenville,1996-03-11,NULL,Actualidad
+93,Argentina,"Buenos Aires",NULL,2009,Actualidad
+69,"United Kingdom",London,NULL,1995,Actualidad
+556,"United States",Dixon,1985-05-20,NULL,Actualidad
+324,Spain,Oviedo,1979-01-21,NULL,Actualidad
+250,"United States",NULL,1990-01-05,NULL,Actualidad
+809,"United States","Los Angeles",NULL,2015,Actualidad
+896,"United States",Seattle,NULL,2004,Actualidad
+306,"United States","San Juan",1991-05-20,NULL,Actualidad
+262,Colombia,Cali,NULL,2009,Actualidad
+565,"United Kingdom",Pinner,1947-03-25,NULL,Actualidad
+160,"United States","San Juan",1994-03-10,NULL,Actualidad
+148,NULL,NULL,NULL,NULL,Actualidad
+129,Poland,NULL,NULL,NULL,Actualidad
+844,"United States",NULL,NULL,NULL,Actualidad
+542,NULL,NULL,NULL,NULL,Actualidad
+581,"United States",Troy,NULL,2005,Actualidad
+103,"United Kingdom",London,NULL,NULL,Actualidad
+670,"United States","New York",NULL,2011,Actualidad
+64,Germany,Berlin,NULL,1996,Actualidad
+553,Spain,NULL,NULL,NULL,Actualidad
+29,"United Kingdom",London,NULL,1995,Actualidad
+854,Iceland,Reykjavík,NULL,1994,Actualidad
+118,Italy,NULL,NULL,NULL,Actualidad
+514,Spain,NULL,NULL,1997,Actualidad
+530,Spain,NULL,NULL,NULL,Actualidad
+450,Spain,Asturias,NULL,1996,Actualidad
+452,Spain,Spain,NULL,1989,Actualidad
+798,"United States",Baltimore,NULL,2004,Actualidad
+218,NULL,NULL,NULL,NULL,Actualidad
+372,Spain,Osuna,1972-11-23,NULL,Actualidad
+479,Spain,NULL,NULL,2010,2022-10-29
+860,"United States","United States",NULL,NULL,Actualidad
+793,"United States","Los Angeles",NULL,1983,Actualidad
+195,Chile,Santiago,NULL,1999,Actualidad
+380,Spain,NULL,NULL,NULL,Actualidad
+332,Spain,Úbeda,1949-02-12,NULL,Actualidad
+721,"United States",Rockville,1981-05-03,NULL,Actualidad
+696,"United States",Chicago,NULL,1997,Actualidad
+558,"United Kingdom",Manchester,NULL,2002,Actualidad
+470,Cuba,NULL,1952-12-16,NULL,Actualidad
+202,"United States",Bridgeport,1990-03-29,NULL,Actualidad
+488,Spain,Berriozar,NULL,1997,Actualidad
+584,"United States",Frankenmuth,NULL,2012,Actualidad
+771,"United States","Bergen County",NULL,2013,Actualidad
+889,"United Kingdom",London,NULL,1975,2015-12-28
+294,Argentina,NULL,NULL,NULL,Actualidad
+127,"United States",Manhattan,1976-10-08,NULL,Actualidad
+327,Spain,Córdoba,1985-10-13,NULL,Actualidad
+482,"United States","Fort Belvoir",NULL,NULL,Actualidad
+299,"United States",Carolina,NULL,NULL,Actualidad
+276,Colombia,Cali,1986-06-27,NULL,Actualidad
+622,"United States",Nashville,NULL,2007,Actualidad
+305,NULL,NULL,NULL,NULL,Actualidad
+80,Austria,Wien,NULL,2012,Actualidad
+601,Canada,Norwood,NULL,1997,Actualidad
+432,Spain,Úbeda,1983-09-10,NULL,Actualidad
+499,Japan,NULL,NULL,NULL,Actualidad
+709,"United Kingdom","High Green",NULL,2002,Actualidad
+337,Spain,Madrid,NULL,1988,Actualidad
+433,Spain,NULL,NULL,NULL,Actualidad
+697,"United States",Cleveland,NULL,NULL,Actualidad
+804,"United States",NULL,NULL,2010,Actualidad
+474,Spain,Madrid,NULL,NULL,Actualidad
+135,NULL,NULL,NULL,NULL,Actualidad
+11,"United States",Toronto,NULL,2010,Actualidad
+20,Argentina,NULL,NULL,NULL,Actualidad
+659,Mexico,Guadalajara,NULL,1986,Actualidad
+617,"United States",Plano,NULL,2010,Actualidad
+107,"United Kingdom",London,NULL,1991,Actualidad
+130,Germany,Hamburg,NULL,2004,Actualidad
+676,Canada,Toronto,NULL,2011,Actualidad
+72,Germany,Hamburg,1982-09-20,NULL,Actualidad
+319,Spain,Madrid,1992-04-01,NULL,Actualidad
+52,NULL,NULL,NULL,NULL,Actualidad
+481,Spain,Madrid,1985-01-01,NULL,Actualidad
+280,NULL,NULL,NULL,NULL,Actualidad
+166,"United States",Bayamón,1991-05-02,NULL,Actualidad
+892,"United States",Atlanta,NULL,1999,Actualidad
+105,Belgium,Sint-Niklaas,NULL,1995,Actualidad
+417,Spain,"Torrejón de Ardoz",1977-04-28,NULL,Actualidad
+884,Japan,NULL,NULL,2012,Actualidad
+214,"United States","Puerto Rico",1988-08-17,NULL,Actualidad
+705,Argentina,"Buenos Aires",NULL,1985,Actualidad
+861,Australia,Perth,NULL,2016,Actualidad
+155,Germany,NULL,NULL,NULL,Actualidad
+878,NULL,NULL,1994-02-13,NULL,Actualidad
+505,Spain,NULL,NULL,NULL,Actualidad
+498,Chile,NULL,NULL,NULL,Actualidad
+388,NULL,NULL,NULL,2015,Actualidad
+142,France,Paris,NULL,NULL,Actualidad
+367,NULL,"Comunidad Valenciana",NULL,2013,Actualidad
+184,"United States","New York",1985-12-23,NULL,Actualidad
+501,Spain,Madrid,NULL,2007,Actualidad
+820,"United States",Bellingham,NULL,1997,Actualidad
+361,Spain,Berriz,NULL,2008,Actualidad
+390,NULL,NULL,NULL,NULL,Actualidad
+826,"United States",Austin,NULL,1994,Actualidad
+61,"United Kingdom",London,1986-03-07,NULL,Actualidad
+607,"United States",Kalamazoo,1986-11-02,NULL,Actualidad
+667,Ireland,Dublin,NULL,2014,Actualidad
+216,NULL,NULL,NULL,NULL,Actualidad
+397,Spain,Madrid,NULL,1965,1968-01-01
+621,"United States",Clanton,1972-12-25,NULL,Actualidad
+880,Japan,NULL,NULL,NULL,Actualidad
+436,Spain,NULL,NULL,NULL,Actualidad
+278,Venezuela,Caracas,1994-06-19,NULL,Actualidad
+648,"United States",Chicago,NULL,2017,Actualidad
+888,"United States",Seattle,NULL,2006,Actualidad
+313,Venezuela,NULL,1992-11-26,NULL,Actualidad
+238,Argentina,"Buenos Aires",2002-03-25,NULL,Actualidad
+1,"United Kingdom",Liverpool,NULL,1999,Actualidad
+799,"United States",Jacksonville,NULL,2010,Actualidad
+365,NULL,NULL,NULL,NULL,Actualidad
+822,Venezuela,Caracas,NULL,2007,Actualidad
+618,"United States",Mazomanie,1986-02-23,NULL,Actualidad
+19,Germany,Greifswald,1985-04-05,NULL,Actualidad
+267,Colombia,NULL,NULL,NULL,Actualidad
+416,NULL,NULL,NULL,NULL,Actualidad
+899,Greece,Athens,1988-10-02,NULL,Actualidad
+336,Spain,"Alcalá de Guadaíra",1969-09-01,NULL,Actualidad
+439,Spain,NULL,NULL,NULL,Actualidad
+146,Ireland,Arklow,1973-07-05,NULL,Actualidad
+181,"United States","Las Piedras",1981-10-15,NULL,Actualidad
+340,NULL,Madrid,1998-04-08,NULL,Actualidad
+413,Spain,"El Masnou",1978-09-30,NULL,Actualidad
+819,"United States",Detroit,1975-07-01,NULL,Actualidad
+726,"United States",NULL,NULL,NULL,Actualidad
+567,"United States",NULL,NULL,NULL,Actualidad
+167,"United States","San Juan",1992-03-13,NULL,Actualidad
+120,Sweden,NULL,NULL,NULL,Actualidad
+807,"United States",Murfreesboro,1991-10-19,NULL,Actualidad
+333,Spain,Pamplona,1844-03-10,NULL,1908-09-28
+647,Japan,Yokohama,NULL,2001,Actualidad
+47,"United Kingdom","Kingston upon Thames",1979-08-15,NULL,Actualidad
+562,"United States",Mobile,1979-12-27,NULL,Actualidad
+704,"United States",Jacksonville,NULL,1994,Actualidad
+600,"United States",Boston,NULL,2004,Actualidad
+630,"United States","Los Angeles",NULL,2018,Actualidad
+664,"United States",Naples,1995-12-30,NULL,Actualidad
+805,"United States","Los Angeles",NULL,2013,Actualidad
+774,Canada,Canada,1982-03-20,NULL,Actualidad
+386,NULL,NULL,NULL,NULL,Actualidad
+832,"United States",Zurich,1997-05-27,NULL,Actualidad
+868,Mexico,Hermosillo,NULL,1999,Actualidad
+18,"United Kingdom",NULL,1993-06-01,NULL,Actualidad
+455,"Costa Rica",NULL,NULL,2018,Actualidad
+701,"United Kingdom",Brighton,NULL,NULL,Actualidad
+290,NULL,NULL,NULL,NULL,Actualidad
+412,Spain,NULL,1993-06-08,NULL,Actualidad
+842,"United Kingdom",London,NULL,1970,1991-11-24
+865,Mexico,Cuernavaca,NULL,1997,Actualidad
+655,"United Kingdom",Sheffield,NULL,2004,Actualidad
+249,NULL,NULL,NULL,NULL,Actualidad
+666,"United States",Leesburg,1976-07-17,NULL,Actualidad
+138,Sweden,Stockholm,NULL,1999,2014-11-01
+363,Spain,Sevilla,1994-09-28,NULL,Actualidad
+816,"United Kingdom",London,NULL,1964,Actualidad
+486,Spain,Albacete,1986-06-12,NULL,Actualidad
+784,"United Kingdom",London,NULL,2010,Actualidad
+700,"United States","Huntington Beach",NULL,1984,Actualidad
+96,"United Kingdom",Bristol,1968-01-27,NULL,Actualidad
+531,Spain,NULL,NULL,NULL,Actualidad
+561,Italy,Roma,NULL,2016,Actualidad
+616,"United States",NULL,1993-10-09,NULL,Actualidad
+350,Spain,Barcelona,1893-04-16,NULL,1987-06-30
+210,"United States",Caracas,1992-01-01,NULL,Actualidad
+518,Spain,Catalunya,NULL,2008,Actualidad
+663,"United Kingdom",Bangor,NULL,2004,Actualidad
+462,Poland,Wrocław,1988-08-23,NULL,Actualidad
+227,Colombia,Barranquilla,2003-01-01,NULL,Actualidad
+351,Spain,NULL,NULL,NULL,Actualidad
+658,"United States",Dahlonega,NULL,2000,Actualidad
+777,"New Zealand",Auckland,NULL,2015,Actualidad
+810,"United States",Boston,NULL,NULL,Actualidad
+253,NULL,NULL,NULL,NULL,Actualidad
+183,"United States","The Bronx",1981-07-21,NULL,Actualidad
+270,Colombia,Pereira,1994-10-28,NULL,Actualidad
+566,Canada,Vancouver,NULL,2005,Actualidad
+43,NULL,NULL,NULL,NULL,2009-01-01
+714,Japan,NULL,NULL,1994,Actualidad
+263,NULL,NULL,NULL,NULL,Actualidad
+768,"United States",Texas,NULL,2001,Actualidad
+368,Spain,"Alcázar de San Juan",1991-12-11,NULL,Actualidad
+687,Germany,Berlin,NULL,1994,Actualidad
+236,Colombia,Cali,1992-10-30,NULL,Actualidad
+349,Spain,"Sant Feliu de Llobregat",1992-10-18,NULL,Actualidad
+186,NULL,NULL,NULL,NULL,Actualidad
+458,Spain,Madrid,NULL,2017,Actualidad
+100,"United Kingdom",London,1986-09-30,NULL,Actualidad
+654,"United States",Toledo,NULL,1996,Actualidad
+468,NULL,"United Kingdom",NULL,1999,2005-01-01
+24,Canada,Dundas,1978-01-01,NULL,Actualidad
+570,"United States",Valdosta,1990-03-30,NULL,Actualidad
+362,Spain,Vitoria-Gasteiz,1981-01-29,NULL,Actualidad
+108,Argentina,"Buenos Aires",1993-12-05,NULL,Actualidad
+178,Venezuela,NULL,NULL,NULL,Actualidad
+217,"United States","Puerto Rico",NULL,NULL,Actualidad
+381,Spain,Barcelona,1984-03-31,NULL,Actualidad
+441,Spain,NULL,1979-08-28,NULL,Actualidad
+139,Brazil,"Rio de Janeiro",1972-02-07,NULL,Actualidad
+585,"United States",Florida,NULL,NULL,Actualidad
+485,NULL,NULL,NULL,NULL,Actualidad
+46,"United Kingdom",Pembury,NULL,NULL,Actualidad
+500,Spain,Madrid,NULL,1996,2001-01-01
+25,"United States","Los Angeles",NULL,2004,Actualidad
+794,"United States",Grayslake,NULL,1994,Actualidad
+268,Italy,Alessandria,1905-02-06,NULL,1980-09-22
+53,"United Kingdom",Peckham,1980-01-01,NULL,Actualidad
+90,"United Kingdom",Nottingham,NULL,1995,Actualidad
+400,Spain,Ibiza,NULL,NULL,Actualidad
+144,Spain,Sevilla,NULL,2018,Actualidad
+579,Philippines,"Olongapo City",NULL,2021,Actualidad
+746,"United States",Louisville,1970-12-24,NULL,Actualidad
+7,"United Kingdom",Totnes,NULL,1999,Actualidad
+92,France,Saint-Germain-en-Laye,1973-01-01,NULL,Actualidad
+162,Colombia,Medellín,1992-08-19,NULL,Actualidad
+244,Panama,Panama,1989-01-01,NULL,Actualidad
+511,Spain,NULL,NULL,2007,Actualidad
+821,"United States",Buffalo,NULL,1986,Actualidad
+802,NULL,NULL,NULL,NULL,Actualidad
+763,NULL,NULL,NULL,NULL,Actualidad
+643,"United Kingdom",Redcliffe,NULL,1958,2003-01-01
+796,"United Kingdom",Leyton,NULL,1975,Actualidad
+684,Canada,Kamloops,1983-05-11,NULL,Actualidad
+538,Spain,Madrid,NULL,2018,Actualidad
+789,NULL,NULL,NULL,NULL,Actualidad
+311,Brazil,"Rio Grande",1957-11-29,NULL,Actualidad
+45,Canada,NULL,1989-09-24,NULL,Actualidad
+752,"United States",Keller,NULL,2008,Actualidad
+578,"United Kingdom",Birmingham,NULL,1978,Actualidad
+241,"United States",Washington,1981-09-24,NULL,Actualidad
+608,"United States",Lafayette,1991-09-09,NULL,Actualidad
+790,"United States",Seattle,1971-12-21,NULL,Actualidad
+190,"United States","Las Piedras",1993-04-09,NULL,Actualidad
+392,Spain,NULL,NULL,NULL,Actualidad
+220,"United States","New York",1989-05-11,NULL,Actualidad
+541,Spain,NULL,NULL,1997,Actualidad
+815,"United States",Baltimore,NULL,2003,Actualidad
+592,"United States",Nashville,1989-08-17,NULL,Actualidad
+619,"United Kingdom",Liverpool,NULL,2003,Actualidad
+828,"United States","Los Angeles",NULL,NULL,Actualidad
+632,"United Kingdom",Walton,1942-06-18,NULL,Actualidad
+221,NULL,NULL,NULL,NULL,Actualidad
+414,Spain,NULL,1988-07-02,NULL,Actualidad
+537,Spain,NULL,1468-07-12,NULL,1529-01-01
+686,"United States","Los Angeles",NULL,1983,Actualidad
+175,"United States","San Juan",1995-07-25,NULL,Actualidad
+223,"United States","San Juan",1989-06-21,NULL,Actualidad
+569,NULL,NULL,NULL,NULL,Actualidad
+292,Argentina,Rosario,2000-08-25,NULL,Actualidad
+772,"United States",Aston,1948-12-03,NULL,Actualidad
+81,Germany,Berlin,NULL,NULL,Actualidad
+382,Spain,Barcelona,1989-04-02,NULL,Actualidad
+724,"United States",Philadelphia,NULL,2005,Actualidad
+760,"United States","Delray, Detroit",NULL,1991,Actualidad
+410,Spain,Madrid,NULL,1982,Actualidad
+248,"United States",NULL,NULL,NULL,Actualidad
+275,Cuba,"La Habana",NULL,2000,Actualidad
+685,"United States","New Albany",NULL,2011,Actualidad
+189,Colombia,Medellín,1985-05-07,NULL,Actualidad
+454,Spain,NULL,NULL,NULL,Actualidad
+79,"United Kingdom",Watford,NULL,NULL,Actualidad
+779,"United States",Calabasas,NULL,2015,Actualidad
+399,Spain,Albacete,1974-10-01,NULL,Actualidad
+775,Mexico,Guadalajara,1990-08-25,NULL,Actualidad
+745,"United States","Isla Vista",NULL,2004,Actualidad
+757,"United Kingdom","West Bromwich",1948-08-20,NULL,Actualidad
+75,Argentina,"Buenos Aires",1962-10-01,NULL,Actualidad
+435,Spain,Madrid,NULL,1993,Actualidad
+564,"United States",Tullahoma,1985-05-14,NULL,Actualidad
+465,NULL,NULL,NULL,NULL,Actualidad
+50,France,Paris,NULL,1998,Actualidad
+769,"United States","West Hollywood",NULL,2016,Actualidad
+403,Spain,"Tres Cantos",NULL,1998,Actualidad
+517,NULL,NULL,NULL,NULL,Actualidad
+420,Spain,NULL,NULL,NULL,Actualidad
+466,Spain,Cádiz,1970-06-04,NULL,Actualidad
+836,Japan,Tokyo,NULL,2015,Actualidad
+102,Germany,Kiel,1977-01-01,NULL,Actualidad
+628,Japan,NULL,NULL,NULL,Actualidad
+813,"United Kingdom",Stanmore,1955-11-30,NULL,Actualidad
+112,"United Kingdom",London,1973-01-01,NULL,Actualidad
+487,Spain,Albacete,NULL,2000,Actualidad
+97,France,Dijon,1976-05-18,NULL,Actualidad
+156,Italy,"Ascoli Piceno",1976-03-17,NULL,Actualidad
+95,NULL,NULL,NULL,NULL,Actualidad
+689,"United States","San Francisco",NULL,1966,Actualidad
+191,Spain,Palma,1993-10-18,NULL,Actualidad
+795,"United Kingdom",Aylesbury,1990-11-17,NULL,Actualidad
+345,Spain,NULL,NULL,NULL,Actualidad
+519,Spain,Badajoz,NULL,1983,Actualidad
+506,NULL,NULL,NULL,NULL,Actualidad
+651,"United States",NULL,NULL,NULL,Actualidad
+652,Canada,Toronto,1996-10-03,NULL,Actualidad
+289,"United States",NULL,NULL,NULL,Actualidad
+587,"United States",Cedartown,1984-12-08,NULL,Actualidad
+307,"United States",NULL,1975-06-20,NULL,Actualidad
+22,Canada,NULL,1978-01-01,NULL,Actualidad
+675,"United States",Philadelphia,1978-11-10,NULL,Actualidad
+133,"United Kingdom",Romford,NULL,1979,Actualidad
+185,"United States",NULL,NULL,NULL,Actualidad
+483,Spain,NULL,NULL,NULL,Actualidad
+637,"United States",Detroit,NULL,1997,2011-02-02
+883,Iceland,Keflavík,NULL,2010,Actualidad
+187,"United States","Puerto Rico",1998-11-08,NULL,Actualidad
+638,"United States","Los Angeles",NULL,1992,Actualidad
+86,France,Vernon,1975-07-19,NULL,Actualidad
+179,Colombia,NULL,NULL,NULL,Actualidad
+209,"Dominican Republic","Santo Domingo",NULL,NULL,Actualidad
+48,Sweden,Gothenburg,NULL,1996,Actualidad
+595,"United States",NULL,1971-11-29,NULL,Actualidad
+674,"United Kingdom",Cambridge,NULL,2018,Actualidad
+321,Spain,"San Sebastián",NULL,1996,Actualidad
+77,Poland,NULL,1990-06-20,NULL,Actualidad
+147,NULL,NULL,NULL,NULL,Actualidad
+604,NULL,NULL,NULL,NULL,Actualidad
+131,NULL,NULL,NULL,1996,Actualidad
+88,NULL,Greystones,NULL,NULL,Actualidad
+718,Japan,Fukuoka,1986-12-16,NULL,Actualidad
+36,"United Kingdom",Belfast,1980-05-19,NULL,Actualidad
+173,Colombia,Córdoba,2000-04-12,NULL,Actualidad
+353,Spain,Málaga,1980-11-14,NULL,Actualidad
+309,Spain,NULL,NULL,NULL,Actualidad
+211,Panama,Colón,1993-12-03,NULL,Actualidad
+791,NULL,NULL,NULL,NULL,Actualidad
+862,"United States",Pittsburgh,NULL,2018,Actualidad
+54,Italy,Venezia,NULL,NULL,Actualidad
+316,Spain,NULL,NULL,NULL,Actualidad
+117,NULL,NULL,NULL,NULL,Actualidad
+881,"United Kingdom",Bristol,NULL,2009,Actualidad
+73,"United Kingdom",London,NULL,2000,Actualidad
+318,Spain,NULL,1957-01-01,NULL,Actualidad
+645,NULL,NULL,NULL,NULL,Actualidad
+315,Spain,Mallorca,1998-01-01,NULL,Actualidad
+369,Spain,NULL,NULL,NULL,Actualidad
+323,Spain,"Sant Climent de Llobregat",1999-06-27,NULL,Actualidad
+627,"United States",Nashville,1987-05-07,NULL,Actualidad
+460,Spain,NULL,NULL,NULL,Actualidad
+165,"United States","Pompano Beach",1997-06-11,NULL,Actualidad
+2,"United States","Los Angeles",1983-10-07,NULL,Actualidad
+874,Colombia,Bogotá,NULL,2005,Actualidad
+98,Colombia,Bewdley,NULL,NULL,Actualidad
+856,"United States",NULL,NULL,NULL,Actualidad
+300,NULL,NULL,NULL,NULL,Actualidad
+70,"United States","Las Vegas",NULL,1993,Actualidad
+269,"United States",NULL,NULL,NULL,Actualidad
+524,Spain,Sabadell,1964-09-28,NULL,Actualidad
+493,Spain,Barcelona,NULL,2007,Actualidad
+563,"United States","New York",NULL,1990,1996-01-01
+713,Mexico,Coatepec,1984-02-26,NULL,Actualidad
+872,"United States",Olympia,1989-05-31,NULL,Actualidad
+723,"United States",Havertown,1993-02-03,NULL,Actualidad
+283,"United States",NULL,1996-01-01,NULL,Actualidad
+401,Spain,NULL,NULL,NULL,Actualidad
+688,Canada,Englewood,1993-10-25,NULL,Actualidad
+58,Poland,Poland,NULL,NULL,Actualidad
+170,"United States","The Bronx",NULL,1994,Actualidad
+260,Argentina,NULL,1994-12-16,NULL,Actualidad
+266,"United Kingdom",London,1995-08-22,NULL,Actualidad
+404,Spain,Sevilla,1882-12-09,NULL,1949-01-14
+520,Spain,Madrid,1993-01-01,NULL,Actualidad
+829,"United States",Nashville,NULL,1999,Actualidad
+851,"United States",NULL,NULL,NULL,Actualidad
+895,"United States","Downers Grove",1977-04-25,NULL,Actualidad
+754,"United States",Bakersfield,NULL,1993,Actualidad
+770,"United Kingdom",Worthing,NULL,2013,Actualidad
+8,"United Kingdom",London,1979-08-01,NULL,Actualidad
+153,Argentina,NULL,NULL,2001,Actualidad
+521,Spain,NULL,NULL,1992,Actualidad
+749,"United States",Minneapolis,NULL,2013,Actualidad
+199,"United States","San Juan",1989-04-03,NULL,Actualidad
+533,Spain,NULL,NULL,NULL,Actualidad
+169,Colombia,Medellín,1991-02-14,NULL,Actualidad
+373,Spain,NULL,NULL,NULL,Actualidad
+665,"United States",Beaumont,1983-04-19,NULL,Actualidad
+228,"United States",NULL,1984-09-17,NULL,Actualidad
+377,Spain,Vila-real,1852-11-21,NULL,1909-12-15
+393,Spain,Barcelona,NULL,1997,Actualidad
+78,"United Kingdom","West Midlands",1978-12-04,NULL,Actualidad
+245,"United States",Bayamón,1979-02-19,NULL,Actualidad
+163,"United States",Inglewood,1997-03-02,NULL,Actualidad
+824,NULL,NULL,NULL,NULL,Actualidad
+356,Spain,NULL,NULL,NULL,Actualidad
+232,"United States",Carolina,1998-04-05,NULL,Actualidad
+66,Italy,NULL,NULL,NULL,Actualidad
+730,"United States","New York",NULL,NULL,Actualidad
+317,Spain,Sevilla,1996-07-02,NULL,Actualidad
+57,"United Kingdom",Hartlepool,NULL,1994,Actualidad
+497,Spain,NULL,NULL,NULL,Actualidad
+800,"United States",Sumter,1979-06-10,NULL,Actualidad
+60,Canada,Montréal,1974-09-18,NULL,Actualidad
+109,Italy,NULL,NULL,NULL,Actualidad
+571,"United States",Macon,1977-02-28,NULL,Actualidad
+13,Netherlands,Amsterdam,NULL,NULL,Actualidad
+551,Spain,"Santo Domingo",NULL,NULL,Actualidad
+839,"United States",Asheville,NULL,NULL,Actualidad
+475,Spain,"Soto del Real",NULL,NULL,Actualidad
+82,NULL,NULL,NULL,NULL,Actualidad
+203,Colombia,Medellín,1994-01-28,NULL,Actualidad
+625,"United States","Fort Lauderdale",1979-02-17,NULL,Actualidad
+825,"United States",Manhattan,1993-06-20,NULL,Actualidad
+801,"United States",Wilmette,1985-06-30,NULL,Actualidad
+886,"United States",Chicago,NULL,1999,Actualidad
+554,Australia,Sydney,NULL,NULL,Actualidad
+776,"United States","Los Angeles",NULL,1990,Actualidad
+374,Spain,NULL,NULL,NULL,Actualidad
+375,Spain,NULL,NULL,NULL,Actualidad
+395,Spain,Madrid,NULL,2013,Actualidad
+577,"United States","Los Angeles",1989-07-03,NULL,Actualidad
+897,"United States","Ann Arbor",NULL,2011,Actualidad
+586,"United States",Fairfax,1964-10-22,NULL,Actualidad
+575,NULL,NULL,NULL,NULL,Actualidad
+737,"United States",Charleston,1995-03-21,NULL,Actualidad
+65,NULL,NULL,NULL,NULL,Actualidad
+732,NULL,NULL,NULL,NULL,Actualidad
+62,Poland,NULL,NULL,NULL,Actualidad
+134,NULL,NULL,NULL,NULL,Actualidad
+177,"United States","San Juan",1989-08-09,NULL,Actualidad
+251,"United States",Caguas,1992-09-16,NULL,Actualidad
+265,Venezuela,Mérida,1999-04-14,NULL,Actualidad
+391,Spain,Valencia,NULL,NULL,Actualidad
+603,"United States","Santa Barbara",NULL,NULL,Actualidad
+76,Austria,Wien,NULL,1994,Actualidad
+235,"Dominican Republic","Santiago de los Caballeros",1986-12-10,NULL,Actualidad
+364,Spain,Spain,1997-08-27,NULL,Actualidad
+552,Spain,"San Sebastián",NULL,NULL,Actualidad
+598,"United States",NULL,NULL,NULL,Actualidad
+750,"United States",NULL,NULL,NULL,Actualidad
+240,Chile,"Punta Arenas",2000-02-04,NULL,Actualidad
+421,Algeria,Oran,1960-02-29,NULL,Actualidad
+10,"United Kingdom",Croydon,NULL,NULL,Actualidad
+122,NULL,NULL,NULL,NULL,Actualidad
+494,Spain,Mallorca,NULL,NULL,Actualidad
+698,"United States","Huntington Beach",NULL,1996,Actualidad
+461,Spain,Elche,1985-01-21,NULL,Actualidad
+834,"United States",Tifton,1980-04-01,NULL,Actualidad
+722,"United States",Nyack,NULL,2001,Actualidad
+428,Spain,NULL,NULL,NULL,Actualidad
+489,NULL,NULL,NULL,NULL,Actualidad
+846,"United States","New Jersey",NULL,2016,Actualidad
+477,Spain,NULL,NULL,NULL,Actualidad
+15,Argentina,NULL,NULL,NULL,Actualidad
+285,Argentina,"Mar del Plata",2000-04-13,NULL,Actualidad
+252,Argentina,Córdoba,1998-04-12,NULL,Actualidad
+51,"United Kingdom",London,NULL,2008,Actualidad
+423,Spain,Figueres,1974-05-23,NULL,Actualidad
+671,"United States",Ravensdale,1981-06-01,NULL,Actualidad
+605,"United States","Ann Arbor",1985-01-08,NULL,Actualidad
+145,Germany,Karlsruhe,NULL,2001,Actualidad
+457,Spain,Logroño,NULL,1997,Actualidad
+510,Spain,"San Fernando",NULL,1996,Actualidad
+848,"United States","Fort Worth",1962-03-18,NULL,Actualidad
+343,Spain,NULL,NULL,NULL,Actualidad
+857,Japan,Nagoya,NULL,2007,Actualidad
+329,Spain,Almería,1979-06-05,NULL,Actualidad
+293,NULL,NULL,NULL,NULL,Actualidad
+539,Spain,NULL,1981-11-13,NULL,Actualidad
+442,Spain,NULL,1996-01-01,NULL,Actualidad
+308,"United States","San Juan",1978-02-10,NULL,Actualidad
+242,"United States",NULL,1971-04-24,NULL,Actualidad
+717,NULL,NULL,NULL,NULL,Actualidad
+677,Canada,NULL,NULL,NULL,Actualidad
+823,"United States",NULL,NULL,2006,Actualidad
+32,"United Kingdom",Glasgow,NULL,1995,Actualidad
+660,"United States",NULL,NULL,NULL,Actualidad
+788,"United States","San Diego",1951-11-14,NULL,Actualidad
+661,Denmark,Copenhagen,NULL,2001,Actualidad
+678,"United States","San Francisco",NULL,1973,Actualidad
+891,"United States",Massachusetts,1968-01-20,NULL,Actualidad
+257,Argentina,Quilmes,2000-02-12,NULL,Actualidad
+59,Argentina,Lanús,NULL,1991,Actualidad
+104,France,"Le Plessis-Bouchard",1975-02-22,NULL,Actualidad
+650,"United States",Milton,1986-06-18,NULL,Actualidad
+672,Australia,Sydney,1986-01-20,NULL,Actualidad
+106,Denmark,Vordingborg,1972-10-16,NULL,Actualidad
+755,"United States","Newfoundland and Labrador",1974-11-10,NULL,Actualidad
+890,"United States",Paris,1986-03-23,NULL,Actualidad
+205,NULL,NULL,NULL,NULL,Actualidad
+662,Germany,Kassel,NULL,2012,Actualidad
+402,Spain,NULL,1976-05-01,NULL,Actualidad
+708,"United States",Aledo,1999-08-10,NULL,Actualidad
+215,"United States","Ciego de Ávila",2001-02-07,NULL,Actualidad
+237,Panama,"Ciudad de Panamá",1997-07-25,NULL,Actualidad
+525,Belgium,Granada,1983-01-01,NULL,Actualidad
+121,"United Kingdom",Brixton,NULL,1994,Actualidad
+384,Spain,NULL,NULL,NULL,Actualidad
+288,"United States","New York",NULL,NULL,Actualidad
+555,"United States","Las Vegas",NULL,2008,Actualidad
+26,"United Kingdom",NULL,NULL,NULL,Actualidad
+635,"United States",NULL,NULL,1994,Actualidad
+852,"United States",Burbank,1949-11-08,NULL,Actualidad
+875,"United States",Clinton,1981-02-26,NULL,Actualidad
+115,Brazil,NULL,NULL,NULL,Actualidad
+411,Spain,NULL,NULL,NULL,Actualidad
+508,Spain,Madrid,1977-02-19,NULL,Actualidad
+342,NULL,NULL,NULL,NULL,Actualidad
+649,"United States",Clearwater,NULL,NULL,Actualidad
+694,"United Kingdom","Isle of Wight",NULL,1980,Actualidad
+582,"United States",Monaghan,NULL,2015,Actualidad
+136,Venezuela,NULL,NULL,NULL,Actualidad
+599,"United States",Vacaville,NULL,1993,Actualidad
+814,"United States",Tupelo,1935-01-08,NULL,1977-08-16
+446,NULL,NULL,NULL,NULL,Actualidad
+803,"United States","Yuba City",1986-02-24,NULL,Actualidad
+467,Spain,NULL,NULL,NULL,Actualidad
+287,NULL,NULL,NULL,NULL,Actualidad
+827,Japan,Tokyo,NULL,2010,Actualidad
+387,Spain,Málaga,1984-03-11,NULL,Actualidad
+680,"United Kingdom","North Shields",1994-04-25,NULL,Actualidad
+624,"United States",Boston,NULL,2018,Actualidad
+354,Spain,Spain,1980-01-17,NULL,Actualidad
+385,Spain,NULL,NULL,NULL,Actualidad
+657,"United States",Columbia,NULL,2003,Actualidad
+830,NULL,Germany,NULL,NULL,Actualidad
+34,Germany,Flensburg,1972-01-01,NULL,Actualidad
+885,"United States",NULL,NULL,2007,Actualidad
+867,Australia,NULL,NULL,NULL,Actualidad
+626,Japan,NULL,NULL,NULL,Actualidad
+534,Argentina,"Buenos Aires",1942-11-15,NULL,Actualidad
+360,Spain,NULL,1981-01-15,NULL,Actualidad
+812,"South Korea","South Korea",NULL,2017,Actualidad
+593,"United States",Columbus,NULL,2009,Actualidad
+35,Iceland,Reykjavík,1965-11-21,NULL,Actualidad
+478,"United States","Point Pleasant",1969-03-11,NULL,2006-05-10
+540,Spain,Torremolinos,NULL,1981,Actualidad
+719,"United States",Durham,NULL,2007,Actualidad
+16,"United Kingdom",Leeds,NULL,1988,Actualidad
+835,"United States",Indianapolis,1952-08-20,NULL,Actualidad
+149,Argentina,"Buenos Aires",NULL,NULL,Actualidad
+320,Spain,Málaga,1989-05-31,NULL,Actualidad
+449,Spain,"Mar del Plata",1975-06-25,NULL,Actualidad
+728,"United States",Massachusetts,NULL,2009,Actualidad
+33,"United Kingdom",London,NULL,2005,Actualidad
+532,Spain,Barcelona,NULL,1994,Actualidad
+707,"United States",Boston,NULL,2013,Actualidad
+394,Spain,Ferrol,1983-04-16,NULL,Actualidad
+491,Spain,NULL,1984-06-27,NULL,Actualidad
+231,Mexico,Mexicali,NULL,2003,Actualidad
+379,Spain,Bilbao,1972-11-06,NULL,Actualidad
+720,"United States","New York",NULL,NULL,Actualidad
+882,"United States",California,NULL,NULL,Actualidad
+811,"United States",Boston,NULL,1986,Actualidad
+840,"United States",Ellaville,1986-08-01,NULL,Actualidad
+716,"United States","Daytona Beach",NULL,1999,Actualidad
+434,Spain,Valladolid,NULL,2016,Actualidad
+580,Sweden,Linköping,NULL,2008,Actualidad
+778,"United States","Los Angeles",NULL,NULL,Actualidad
+535,Spain,Madrid,NULL,1994,Actualidad
+767,"United States","Anne Arundel County",NULL,2013,Actualidad
+110,Germany,Leipzig,1977-06-12,NULL,Actualidad
+614,"United States",Glendale,1956-08-18,NULL,Actualidad
+781,Canada,Windsor,NULL,2011,Actualidad
+4,"United Kingdom",Belfast,NULL,2009,Actualidad
+339,Spain,"San Fernando",1998-08-25,NULL,Actualidad
+204,Spain,Almería,2001-04-24,NULL,Actualidad
+358,Spain,Spain,1988-01-01,NULL,Actualidad
+164,NULL,NULL,2001-11-11,NULL,Actualidad
+495,Spain,Camprodon,1860-05-29,NULL,1909-05-18
+591,Canada,Montréal,NULL,1999,Actualidad
+703,"United States",Morehead,1996-12-15,NULL,Actualidad
+641,"United States",Nashville,NULL,2010,2022-02-06
+583,"United States",Duxbury,NULL,2006,Actualidad
+729,Chile,NULL,NULL,1968,Actualidad
+171,"Dominican Republic","Santo Domingo",1990-12-18,NULL,Actualidad
+837,"United States",Sydney,1977-07-26,NULL,Actualidad
+383,NULL,NULL,NULL,NULL,Actualidad
+588,"United States",Akron,NULL,2001,Actualidad
+464,Spain,NULL,NULL,2017,Actualidad
+366,Spain,Barcelona,NULL,1999,Actualidad
+40,"United States","New York",NULL,2011,Actualidad
+201,NULL,NULL,NULL,NULL,Actualidad
+338,Venezuela,Caracas,1974-03-08,NULL,Actualidad
+629,"United States",Palestine,NULL,2005,Actualidad
+833,"United States",Memphis,NULL,1996,Actualidad
+264,"South Korea",Gyeongju,2002-06-19,NULL,Actualidad
+610,Canada,Hanna,NULL,1995,Actualidad
+523,Colombia,NULL,NULL,NULL,Actualidad
+415,Spain,"Talavera de la Reina",1985-10-12,NULL,Actualidad
+504,Spain,NULL,1980-01-01,NULL,Actualidad
+125,Chile,Santiago,1983-06-03,NULL,Actualidad
+560,"United States",Bastrop,1990-10-22,NULL,Actualidad
+692,"United States","New York",NULL,2000,Actualidad
+472,Spain,Ricote,1991-10-26,NULL,Actualidad
+887,"United States",NULL,NULL,NULL,Actualidad
+669,Argentina,Formosa,1944-02-14,NULL,Actualidad
+132,"United Kingdom",Manchester,NULL,NULL,Actualidad
+864,Australia,Sydney,1987-11-03,NULL,Actualidad
+818,"United Kingdom",Abingdon-on-Thames,NULL,1991,Actualidad
+711,Australia,Melbourne,NULL,2014,Actualidad
+44,"United Kingdom",Manchester,NULL,1989,Actualidad
+359,Spain,Zaragoza,1980-03-01,NULL,Actualidad
+740,Colombia,Bogotá,1984-05-04,NULL,Actualidad
+572,"United Kingdom",Basildon,NULL,1980,Actualidad
+196,"United States","San Juan",1977-02-03,NULL,Actualidad
+699,Denmark,NULL,NULL,NULL,Actualidad
+55,Italy,NULL,NULL,NULL,Actualidad
+596,Australia,Melbourne,1987-12-01,NULL,Actualidad
+213,"United States",Salinas,1994-11-21,NULL,Actualidad
+68,NULL,NULL,NULL,NULL,Actualidad
+735,"United States","Los Angeles",1987-10-05,NULL,Actualidad
+459,Spain,NULL,NULL,NULL,Actualidad
+753,"United States",Irvine,NULL,2004,Actualidad
+180,Colombia,Medellín,1994-10-15,NULL,Actualidad
+543,Spain,"A Coruña",NULL,2014,Actualidad
+254,NULL,NULL,NULL,NULL,Actualidad
+871,"United States",Aberdeen,NULL,1987,1994-04-05
+440,Spain,NULL,NULL,NULL,Actualidad
+247,"United States","Puerto Rico",1992-02-24,NULL,Actualidad
+715,Iceland,Mosfellsbær,NULL,2012,Actualidad
+526,Spain,Sevilla,1977-02-24,NULL,Actualidad
+444,Spain,NULL,NULL,NULL,Actualidad
+843,"United States",Eustis,1988-04-29,NULL,Actualidad
+710,"United States","Upper East Side",1986-03-28,NULL,Actualidad
+274,"United States",Miami,NULL,2015,Actualidad
+355,Spain,Sevilla,1978-12-13,NULL,Actualidad
+529,NULL,Bilbao,NULL,NULL,Actualidad
+39,NULL,NULL,NULL,NULL,Actualidad
+286,Colombia,NULL,NULL,NULL,Actualidad
+736,"United States",Manhattan,1964-05-30,NULL,Actualidad
+304,"Dominican Republic","Santiago de los Caballeros",1995-08-04,NULL,Actualidad
+41,France,Boulogne-Billancourt,1980-06-20,NULL,Actualidad
+331,Spain,Tarragona,NULL,2003,Actualidad
+773,Japan,Sakai,NULL,2006,Actualidad
+615,NULL,NULL,NULL,NULL,Actualidad
+866,"United Kingdom",NULL,NULL,2010,Actualidad
+636,"United States",Haverhill,1965-01-12,NULL,Actualidad
+200,"United States","Kansas City",1994-11-14,NULL,Actualidad
+490,"South Korea",NULL,2004-03-20,NULL,Actualidad
+817,"United States",Hollywood,NULL,2005,Actualidad
+849,"United States","Los Angeles",NULL,2005,Actualidad
+590,"United States","Grand Saline",1972-05-04,NULL,Actualidad
+476,"United States",Venezuela,1994-04-14,NULL,Actualidad
+712,"United States","Las Vegas",NULL,2008,Actualidad
+176,Jamaica,Kingston,1990-04-12,NULL,Actualidad
+695,"United Kingdom",Teignmouth,NULL,1994,Actualidad
+642,"United States","Terre Haute",1999-10-09,NULL,Actualidad
+623,"United States",Ramsey,NULL,2008,Actualidad
+222,Colombia,Envigado,1986-12-12,NULL,Actualidad
+246,"United States",NULL,NULL,NULL,Actualidad
+780,Japan,NULL,NULL,2009,Actualidad
+471,Canada,Ottawa,1958-07-26,NULL,Actualidad
+277,Spain,"Vilassar de Mar",1997-03-07,NULL,Actualidad
+27,"United Kingdom",Manchester,NULL,NULL,Actualidad
+559,"United States","Colorado Springs",NULL,2004,Actualidad
+281,"United States",NULL,1992-09-19,NULL,Actualidad
+279,NULL,Carolina,2000-05-29,NULL,Actualidad
+742,"United States","Hokes Bluff",1983-10-03,NULL,Actualidad
+507,Spain,Granada,NULL,1998,Actualidad
+89,Iceland,Reykjavík,NULL,1995,Actualidad
+84,"United Kingdom",Oxford,1968-10-07,NULL,Actualidad
+792,"United States",Seneca,NULL,2000,Actualidad
+473,Spain,Madrid,1982-12-23,NULL,Actualidad
+853,"United Kingdom",Derby,NULL,2010,Actualidad
+389,Spain,NULL,NULL,NULL,Actualidad
+893,"United States",Pittsburgh,NULL,2021,Actualidad
+137,NULL,NULL,NULL,NULL,Actualidad
+348,Spain,Barcelona,1990-04-30,NULL,Actualidad
+113,Guatemala,NULL,NULL,NULL,Actualidad
+326,Spain,Madrid,NULL,NULL,Actualidad
+606,"United States","Newbury Park",NULL,2011,Actualidad
+463,"United States",Lexington,1979-11-27,NULL,Actualidad
+764,"United Kingdom",London,NULL,1962,Actualidad
+873,Japan,Kobe,NULL,2002,Actualidad
+198,"United States",Carolina,1992-11-27,NULL,Actualidad
+99,"United Kingdom",London,NULL,1997,Actualidad
+208,"United States",Carolina,1997-10-11,NULL,Actualidad
+741,"United States","United States",NULL,2003,Actualidad
+751,Australia,Mooloolaba,NULL,1985,Actualidad
+239,Chile,Talca,2001-12-19,NULL,Actualidad
+255,Argentina,"Buenos Aires",1996-01-01,NULL,Actualidad
+272,"United States","Vega Baja",1995-08-13,NULL,Actualidad
+150,Canada,Burlington,1964-06-07,NULL,Actualidad
+291,Argentina,"Buenos Aires",1999-10-04,NULL,Actualidad
+589,"United Kingdom","Isle of Wight",NULL,2019,Actualidad
+445,Spain,Canarias,NULL,2007,Actualidad
+225,"United States",Cayey,1978-12-19,NULL,Actualidad
