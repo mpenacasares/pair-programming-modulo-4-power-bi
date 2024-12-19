@@ -26,41 +26,33 @@ Propuestas:
 
 - Top 10 artistas mas escuchados, comparando listener y playcount (DB 2)
 
-**Info electronica** -> discogs_electronic - 1990 a 2000
+**Info electronica** -> electro_music_on_Spotify.csv. 1987 a 2022.
+Podríamos coger la info. desde 1987 hasta el 2020, ya que en el otro CSV tenemos info. de 2021 y 2022.
 
-Artist: Name of the artist or group who performed or created the music.
-Title: Title of the track or album.
-Label: Record label that released the music.
-Country: The country where the music was released.
-Format: The format of the release.
-Release Date: The date when the music was released.
-Genre: The general genre of the music.
-Styles: Specific styles or sub-genres.
-Have/Want: Metrics indicating how many people own or want the record.
-Number of Ratings: The total number of ratings the record has received.
-Average Rating: The average rating out of all received ratings.
-Price Statistics: This includes the lowest, median, and highest prices of the records. 
+'track_name', 'track_id', 'track_popularity', 'track_number',
+       'explicit', 'available_markets', 'artists_names', 'artists_ids',
+       'album_id', 'main_artist_id', 'danceability', 'energy', 'key',
+       'loudness', 'mode', 'speechiness', 'acousticness', 'instrumentalness',
+       'liveness', 'valence', 'tempo', 'duration_sec', 'time_signature',
+       'album_name', 'album_release_date', 'total_tracks', 'type', 'image_url',
+       'album_popularity', 'album_label', 'followers', 'genres', 'artist_name',
+       'artist_popularity', 'lowest position', 'mean_position', 'position_std',
+       'best_position', 'times_in_rating', 'born_or_founded_in',
+       'positions_and_years_data', 'dj_score', 'release_year', 'release_month',
+       'track_name_length', 'main_artist_name_length', 'album_name_length',
+       'available_markets_count', 'artists_count', 'cover_id'
 
-**Info rock** -> UltimateClassicRock.csv
-Música rock - 1962 to 2024
-Columnas;
-Track	
-Artist	
-Album	
-Year	
-Duration	
-Time_Signature	
-Danceability	
-Energy	
-Key	
-Loudness	
-Mode	
-Speechiness	
-Acousticness	
-Instrumentalness	
-Liveness	
-Valence	
-Tempo	
-Popularity
+**Info rock** -> UltimateClassicRock.csv. Música rock - 1962 to 2024
+Podríamos coger la info. desde 1962 hasta el 2020, ya que en el otro CSV tenemos info. de 2021 y 2022.
+
+'Track', 'Artist', 'Album', 'Year', 'Duration', 'Time_Signature',
+       'Danceability', 'Energy', 'Key', 'Loudness', 'Mode', 'Speechiness',
+       'Acousticness', 'Instrumentalness', 'Liveness', 'Valence', 'Tempo',
+       'Popularity'
 
 Propuestas:
+- Gráfica de línea que muestre la evolución del número de albumes de cada género en los 10/15 últimos años.
+- Cuál es el artista/album dentro de cada género que tiene más albumes?
+- Popularidad de esos artistas?
+- Podríamos hacer alguna correlación entre la popularidad y el danceability de cada género.
+
