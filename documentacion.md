@@ -27,7 +27,7 @@ Propuestas:
 - Top 10 artistas mas escuchados, comparando listener y playcount (DB 2)
 
 **Info electronica** -> electro_music_on_Spotify.csv. 1987 a 2022.
-Podríamos coger la info. desde 1987 hasta el 2020, ya que en el otro CSV tenemos info. de 2021 y 2022.
+2010 - 2020, ya que en el otro CSV tenemos info. de 2021 y 2022.
 
 'track_name', 'track_id', 'track_popularity', 'track_number',
        'explicit', 'available_markets', 'artists_names', 'artists_ids',
@@ -43,7 +43,7 @@ Podríamos coger la info. desde 1987 hasta el 2020, ya que en el otro CSV tenemo
        'available_markets_count', 'artists_count', 'cover_id'
 
 **Info rock** -> UltimateClassicRock.csv. Música rock - 1962 to 2024
-Podríamos coger la info. desde 1962 hasta el 2020, ya que en el otro CSV tenemos info. de 2021 y 2022.
+2010 - 2020, ya que en el otro CSV tenemos info. de 2021 y 2022.
 
 'Track', 'Artist', 'Album', 'Year', 'Duration', 'Time_Signature',
        'Danceability', 'Energy', 'Key', 'Loudness', 'Mode', 'Speechiness',
@@ -51,7 +51,7 @@ Podríamos coger la info. desde 1962 hasta el 2020, ya que en el otro CSV tenemo
        'Popularity'
 
 Propuestas:
-- Gráfica de línea que muestre la evolución del número de albumes de cada género en los 10/15 últimos años.
+- Gráfica de línea que muestre la evolución del número de albumes de cada género en los 10 últimos años.
 - Cuál es el artista/album dentro de cada género que tiene más albumes?
 - Popularidad de esos artistas?
 - Podríamos hacer alguna correlación entre la popularidad y el danceability de cada género.
